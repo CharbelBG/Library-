@@ -1,0 +1,1 @@
+A simple library that you can add and remove books, books will be stored locally.
